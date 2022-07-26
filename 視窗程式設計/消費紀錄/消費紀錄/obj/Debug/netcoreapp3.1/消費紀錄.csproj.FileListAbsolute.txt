@@ -1,0 +1,16 @@
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.exe
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.deps.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.runtimeconfig.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.runtimeconfig.dev.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.dll
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\bin\Debug\netcoreapp3.1\消費紀錄.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.csproj.GenerateResource.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.GeneratedMSBuildEditorConfig.editorconfig
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.AssemblyInfoInputs.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.AssemblyInfo.cs
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.dll
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.genruntimeconfig.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.記帳程式.resources
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\消費紀錄\消費紀錄\obj\Debug\netcoreapp3.1\消費紀錄.csproj.AssemblyReference.cache
