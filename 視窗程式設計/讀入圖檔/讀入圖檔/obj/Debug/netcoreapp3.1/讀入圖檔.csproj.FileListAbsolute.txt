@@ -1,0 +1,16 @@
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.exe
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.deps.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.runtimeconfig.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.runtimeconfig.dev.json
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.dll
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\bin\Debug\netcoreapp3.1\讀入圖檔.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.csproj.AssemblyReference.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.Form1.resources
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.csproj.GenerateResource.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.GeneratedMSBuildEditorConfig.editorconfig
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.AssemblyInfoInputs.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.AssemblyInfo.cs
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.dll
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\讀入圖檔\讀入圖檔\obj\Debug\netcoreapp3.1\讀入圖檔.genruntimeconfig.cache
