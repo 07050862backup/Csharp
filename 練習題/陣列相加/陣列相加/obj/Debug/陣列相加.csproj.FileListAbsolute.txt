@@ -1,0 +1,7 @@
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\bin\Debug\陣列相加.exe.config
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\bin\Debug\陣列相加.exe
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\bin\Debug\陣列相加.pdb
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\obj\Debug\陣列相加.csproj.AssemblyReference.cache
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\obj\Debug\陣列相加.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\obj\Debug\陣列相加.exe
+D:\D槽下載\Csharpcode\練習題\陣列相加\陣列相加\obj\Debug\陣列相加.pdb

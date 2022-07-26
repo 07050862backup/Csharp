@@ -1,0 +1,7 @@
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\bin\Debug\繼承與多型.exe.config
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\bin\Debug\繼承與多型.exe
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\bin\Debug\繼承與多型.pdb
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\obj\Debug\繼承與多型.csproj.AssemblyReference.cache
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\obj\Debug\繼承與多型.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\obj\Debug\繼承與多型.exe
+D:\D槽下載\Csharpcode\練習題\繼承與多型\繼承與多型\obj\Debug\繼承與多型.pdb

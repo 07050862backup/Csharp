@@ -1,0 +1,6 @@
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\obj\Debug\類別練習一.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\bin\Debug\類別練習一.exe.config
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\bin\Debug\類別練習一.exe
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\bin\Debug\類別練習一.pdb
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\obj\Debug\類別練習一.exe
+D:\D槽下載\Csharpcode\練習題\類別練習一\類別練習一\obj\Debug\類別練習一.pdb

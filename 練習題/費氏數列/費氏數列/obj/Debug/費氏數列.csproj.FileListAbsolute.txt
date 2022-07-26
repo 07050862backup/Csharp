@@ -1,0 +1,7 @@
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\obj\Debug\費氏數列.csproj.AssemblyReference.cache
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\obj\Debug\費氏數列.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\bin\Debug\費氏數列.exe.config
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\bin\Debug\費氏數列.exe
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\bin\Debug\費氏數列.pdb
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\obj\Debug\費氏數列.exe
+D:\D槽下載\Csharpcode\練習題\費氏數列\費氏數列\obj\Debug\費氏數列.pdb

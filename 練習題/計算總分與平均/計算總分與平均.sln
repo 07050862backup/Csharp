@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算總分與平均", "計算總分與平均\計算總分與平均.csproj", "{F1ACBE4F-A38C-45EE-A714-7554BCA4F916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ACBE4F-A38C-45EE-A714-7554BCA4F916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ACBE4F-A38C-45EE-A714-7554BCA4F916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ACBE4F-A38C-45EE-A714-7554BCA4F916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ACBE4F-A38C-45EE-A714-7554BCA4F916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5017F07F-1766-4617-A564-61519D9D39AC}
+	EndGlobalSection
+EndGlobal

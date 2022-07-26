@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "繼承與多型", "繼承與多型\繼承與多型.csproj", "{A86BE519-280D-4806-9659-148FEDB424F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86BE519-280D-4806-9659-148FEDB424F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86BE519-280D-4806-9659-148FEDB424F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86BE519-280D-4806-9659-148FEDB424F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86BE519-280D-4806-9659-148FEDB424F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6054ACE2-3EE1-4DFB-88E8-CABA75D2BA5E}
+	EndGlobalSection
+EndGlobal

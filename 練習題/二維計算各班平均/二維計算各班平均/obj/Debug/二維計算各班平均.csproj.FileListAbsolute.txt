@@ -1,0 +1,6 @@
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\bin\Debug\二維計算各班平均.exe.config
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\bin\Debug\二維計算各班平均.exe
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\bin\Debug\二維計算各班平均.pdb
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\obj\Debug\二維計算各班平均.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\obj\Debug\二維計算各班平均.exe
+D:\D槽下載\Csharpcode\練習題\二維計算各班平均\二維計算各班平均\obj\Debug\二維計算各班平均.pdb

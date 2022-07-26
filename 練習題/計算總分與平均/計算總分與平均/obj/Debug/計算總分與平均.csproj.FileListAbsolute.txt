@@ -1,0 +1,6 @@
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\bin\Debug\計算總分與平均.exe.config
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\bin\Debug\計算總分與平均.exe
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\bin\Debug\計算總分與平均.pdb
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\obj\Debug\計算總分與平均.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\obj\Debug\計算總分與平均.exe
+D:\D槽下載\Csharpcode\練習題\計算總分與平均\計算總分與平均\obj\Debug\計算總分與平均.pdb
