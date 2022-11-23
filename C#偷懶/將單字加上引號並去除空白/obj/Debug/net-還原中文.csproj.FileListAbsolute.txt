@@ -1,0 +1,11 @@
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\bin\Debug\無輸入法中文轉換器.exe.config
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\bin\Debug\無輸入法中文轉換器.exe
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\bin\Debug\無輸入法中文轉換器.pdb
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net-還原中文.csproj.AssemblyReference.cache
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net-還原中文.csproj.SuggestedBindingRedirects.cache
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net_還原中文.Form1.resources
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net_還原中文.Properties.Resources.resources
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net-還原中文.csproj.GenerateResource.cache
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net-還原中文.csproj.CoreCompileInputs.cache
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\無輸入法中文轉換器.exe
+D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\無輸入法中文轉換器.pdb
