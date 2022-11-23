@@ -1,8 +1,0 @@
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\將單字將上雙引號並去除空白.csproj.AssemblyReference.cache
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\將單字將上雙引號並去除空白.csproj.SuggestedBindingRedirects.cache
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net_還原中文.Form1.resources
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\net_還原中文.Properties.Resources.resources
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\將單字將上雙引號並去除空白.csproj.GenerateResource.cache
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\將單字將上雙引號並去除空白.csproj.CoreCompileInputs.cache
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\無輸入法中文轉換器.exe
-D:\備份\Desktop\公司\星宇\練習程式\C#偷懶\net-還原中文\obj\Debug\無輸入法中文轉換器.pdb
