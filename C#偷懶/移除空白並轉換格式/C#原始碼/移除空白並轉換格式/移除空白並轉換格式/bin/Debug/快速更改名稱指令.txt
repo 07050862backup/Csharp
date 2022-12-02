@@ -1,1 +1,4 @@
 Dir | Rename-Item -NewName { $_.name -replace "old", "new" }
+
+\[|[]  選擇左邊中括弧
+\[|\]  選擇左+右邊中括弧
