@@ -5,7 +5,7 @@ Get-ChildItem $path -Recurse | Rename-Item -NewName { $_.Name -replace "oldname"
 
 
 $path = pwd
-Get-ChildItem $path -Recurse    列出當前目錄底下的所有名稱
+Get-ChildItem $path -Recurse    //列出當前目錄底下的所有名稱
 
 
 
