@@ -1,0 +1,13 @@
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\bin\Debug\Bookstore.mdf
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\bin\Debug\Bookstore_log.ldf
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\bin\Debug\資料庫練習.exe.config
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\bin\Debug\資料庫練習.exe
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\bin\Debug\資料庫練習.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\資料庫練習.Form1.resources
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\資料庫練習.Form2.resources
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\資料庫練習.Properties.Resources.resources
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\BookStoreManageSystem.csproj.GenerateResource.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\BookStoreManageSystem.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\資料庫練習.exe
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\資料庫練習.pdb
+D:\D槽下載\Csharpcode\視窗程式設計\練習題\資料庫練習\資料庫練習\obj\Debug\BookStoreManageSystem.csproj.AssemblyReference.cache
