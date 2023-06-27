@@ -1,0 +1,14 @@
+D:\CSharpCode\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.exe.config
+D:\CSharpCode\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.exe
+D:\CSharpCode\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.pdb
+D:\CSharpCode\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.csproj.AssemblyReference.cache
+D:\CSharpCode\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.csproj.CoreCompileInputs.cache
+D:\CSharpCode\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.exe
+D:\CSharpCode\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.pdb
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.exe.config
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.exe
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\bin\Debug\ProjectGmae.pdb
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.exe
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.pdb
+D:\D槽下載\Csharpcode\Csharp期末\ProjectGmae\ProjectGmae\obj\Debug\ProjectGmae.csproj.AssemblyReference.cache

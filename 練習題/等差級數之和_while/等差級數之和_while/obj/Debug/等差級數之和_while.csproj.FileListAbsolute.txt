@@ -1,0 +1,7 @@
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\bin\Debug\等差級數之和_while.exe.config
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\bin\Debug\等差級數之和_while.exe
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\bin\Debug\等差級數之和_while.pdb
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\obj\Debug\等差級數之和_while.csproj.CoreCompileInputs.cache
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\obj\Debug\等差級數之和_while.exe
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\obj\Debug\等差級數之和_while.pdb
+D:\D槽下載\Csharpcode\練習題\等差級數之和_while\等差級數之和_while\obj\Debug\等差級數之和_while.csproj.AssemblyReference.cache

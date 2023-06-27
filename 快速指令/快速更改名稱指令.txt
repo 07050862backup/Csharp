@@ -1,0 +1,15 @@
+Dir | Rename-Item -NewName { $_.name -replace "old", "new" }   //僅能改當前目錄
+
+$path = pwd
+Get-ChildItem $path -Recurse | Rename-Item -NewName { $_.Name -replace "oldname", "newname" }  //改當前目錄底下的所有名稱，會跳出錯誤，不過依然能成功
+
+
+$path = pwd
+Get-ChildItem $path -Recurse    //列出當前目錄底下的所有名稱
+
+
+@(\w+) 匹配以 "@" 開頭的字符串
+
+\[     選擇左邊中括弧
+
+\[|\]  選擇左+右邊中括弧
