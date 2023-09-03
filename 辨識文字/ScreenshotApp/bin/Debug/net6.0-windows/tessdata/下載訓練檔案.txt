@@ -1,0 +1,3 @@
+https://github.com/tesseract-ocr/tessdata/blob/main/chi_tra.traineddata
+
+檔案太大傳不上來，需自行下載
